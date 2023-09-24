@@ -1,0 +1,17 @@
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\bin\Debug\net7.0\FormulaAirline.TicketProcess.exe
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\bin\Debug\net7.0\FormulaAirline.TicketProcess.deps.json
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\bin\Debug\net7.0\FormulaAirline.TicketProcess.runtimeconfig.json
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\bin\Debug\net7.0\FormulaAirline.TicketProcess.dll
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\bin\Debug\net7.0\FormulaAirline.TicketProcess.pdb
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\FormulaAirline.TicketProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\FormulaAirline.TicketProcess.AssemblyInfoInputs.cache
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\FormulaAirline.TicketProcess.AssemblyInfo.cs
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\FormulaAirline.TicketProcess.csproj.CoreCompileInputs.cache
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\FormulaAirline.TicketProcess.dll
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\refint\FormulaAirline.TicketProcess.dll
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\FormulaAirline.TicketProcess.pdb
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\FormulaAirline.TicketProcess.genruntimeconfig.cache
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\ref\FormulaAirline.TicketProcess.dll
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\FormulaAirline.TicketProcess.csproj.AssemblyReference.cache
+D:\RabbitMQ Practice\AirlinesV2\FormulaAirline.TicketProcess\obj\Debug\net7.0\FormulaAirline.TicketProcess.csproj.CopyComplete
